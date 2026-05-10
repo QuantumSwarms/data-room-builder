@@ -1,5 +1,7 @@
 # Investor & Compliance Data Room
 
+<p align="center"><img src="./assets/og-image.png" alt="data-room-builder banner" width="800"></p>
+
 > A structured, defensible data room — built in 2 weeks — for SMBs raising capital, selling, or qualifying for enterprise contracts.
 
 [![CI](https://github.com/QuantumSwarms/data-room-builder/actions/workflows/ci.yml/badge.svg)](https://github.com/QuantumSwarms/data-room-builder/actions/workflows/ci.yml)
